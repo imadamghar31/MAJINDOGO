@@ -15,7 +15,9 @@ Building projects in: Data Analytics & Smart Solutions (IoT, Digital Transformat
 Skills: Data cleaning, visualization, dashboards, and storytelling with data
 ## Featured Projects (coming soon)
 FreshGro Data Analytics : Analyzing sales & customer patterns with SQL : Python
+
 MajiNdo Water Crisis Analytics : Exploring gender composition at shared water taps, crime data insights & progress reporting (Excel, Google Sheets, SQL & Power BI)
+
 Digital Marketing Analytics : Data-driven campaigns and performance dashboards
 ## Tech Stack
 Languages: Python, SQL
