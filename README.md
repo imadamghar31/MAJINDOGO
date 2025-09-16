@@ -23,6 +23,9 @@ Data Tools: Pandas, Numpy, Matplotlib, Power BI
 Other Interests: Cloud, IoT, Business Analytics
 ## Connect With Me
 www.linkedin.com/in/imad-amghar-97281b47
+
 www.imadamghar.byethost9.com
+
 Email: amghar.imad.90@gmail.com
+
 Feel free to explore my repositories, contribute, or reach out let’s learn and build together!
